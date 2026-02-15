@@ -1668,7 +1668,7 @@ class DataSourceRegistry {
 **Setup**:
 ```bash
 # Clone repository
-git clone https://github.com/org/behavioral-intelligence-system
+git clone https://github.com/Jailakshmi/behavioral-AI-intelligence-system
 cd behavioral-intelligence-system
 
 # Install dependencies
@@ -1687,3 +1687,4 @@ npm run build  # or python setup.py build
 ---
 
 This design provides a comprehensive, modular, and extensible architecture for the Behavioral Intelligence System that addresses all requirements while maintaining privacy, performance, and usability.
+
